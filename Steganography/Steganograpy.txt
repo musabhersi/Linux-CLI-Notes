@@ -1,0 +1,8 @@
+a nice docker containing a collection of steg tools by Dominic:
+##########################################
+github link:
+https://github.com/DominicBreuker/stego-toolkit
+-----------------------------------------------
+run it:
+-------
+docker run -it --rm -v $(pwd)/data:/data dominicbreuker/stego-toolkit /bin/bash
